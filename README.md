@@ -6,7 +6,7 @@
         <img id="image" src="https://media4.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif?cid=6c09b952nrkivkk0uohtja67legqhhq5zm4001u4ixxh38dc&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width=200 height=200>
 </div>
 
-### Passionate BTech Student Delving into Artificial Intelligence & Data Science: Interested in AI, Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, and Generative AI.
+### Passionate BTech Graduate Delving into Artificial Intelligence & Data Science: Interested in AI, Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, and Generative AI.
  I’m looking to collaborate on python project <br />
 
 ## Technologies & Tools <br/>
