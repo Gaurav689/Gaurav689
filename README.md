@@ -16,10 +16,10 @@ I'm looking to collaborate on python project <br />
 ## Contact Details
 
 <a href="https://www.linkedin.com/in/gaurav-kapoor-2ab825218/">
-  <img src="https://github.com/Gaurav689/Gaurav689/blob/main/icon%20images/linkedin2.jpg" width="30" alt="LinkedIn">
+  <img src="https://github.com/Gaurav689/Gaurav689/blob/main/icon%20images/linkedin2.jpg" width="40" height="40" alt="LinkedIn">
 </a>
 
 <a href="mailto:kapoorguarav627@gmail.com">
-  <img src="https://github.com/Gaurav689/Gaurav689/blob/main/icon%20images/mail2.jpg" width="30" alt="Email">
+  <img src="https://github.com/Gaurav689/Gaurav689/blob/main/icon%20images/mail2.jpg" width="40" height="40" alt="Email">
 </a>
 
