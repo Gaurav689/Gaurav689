@@ -14,4 +14,12 @@ I'm looking to collaborate on python project <br />
 | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGJqiU3SMd77cAa77vsfdOHzsFJc9f7Vy1iQ&s" width="40" height="40" alt="python"> | <img src="https://github.com/Gaurav689/Gaurav689/blob/main/icon%20images/social.png" width="40" height="40" alt="git"> | <img src="" width="40" height="40" alt="jupyter"> | <img src="https://github.com/Gaurav689/Gaurav689/blob/main/icon%20images/kaggleimage.png" width="40" height="40" alt="kaggle"> | <img src="https://github.com/Gaurav689/Gaurav689/blob/main/icon%20images/tensorflow%20icon.png" width="40" height="40" alt="tensorflow"> |
 
 ## Contact Details
-[![linkedin](https://github.com/Gaurav689/Gaurav689/blob/main/icon%20images/linkedin2.jpg/) [![mail](https://github.com/Gaurav689/Gaurav689/blob/main/icon%20images/mail2.jpg)](kapoorguarav627@gmail.com)
+
+<a href="https://www.linkedin.com/in/gaurav-kapoor-2ab825218/">
+  <img src="https://github.com/Gaurav689/Gaurav689/blob/main/icon%20images/linkedin2.jpg" width="30" alt="LinkedIn">
+</a>
+
+<a href="mailto:kapoorguarav627@gmail.com">
+  <img src="https://github.com/Gaurav689/Gaurav689/blob/main/icon%20images/mail2.jpg" width="30" alt="Email">
+</a>
+
